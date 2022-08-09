@@ -11,4 +11,4 @@
 ### What this website will not do:
 - Display match history, or other user-specific information, with a potential exception for pro or user-submitted builds
 - Show elo, or matchmaking rating
-- 
+- ...more to be added later
